@@ -12,7 +12,7 @@ This repository provides:
 - Model inference examples
 - Deployment instructions (optional)
 
-## 📁 ABOUT
+## ⓘ ABOUT
 
 An AI model is a program that has been trained on a set of data to recognize certain patterns or make certain decisions without further human intervention. Artificial intelligence models apply different algorithms to relevant data inputs to achieve the tasks, or output, they’ve been programmed for.
 
